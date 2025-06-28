@@ -61,7 +61,7 @@ _G.ZapSettings = {
 	["PetSimulator99 - AutoSellFarmPetsTableMultiDropdown"] = {"Pixel Chick", "Pixel Cat", "Pixel Piggy", "Pixel Corgi", "Pixel Bunny", "Pixel Goblin", "Pixel Bee", "Pixel Monkey", "Pixel Wolf", "Pixel Tiger", "Pixel Griffin", "Pixel Yeti", "Pixel Demon", "Pixel Agony", "Pixel Angelus", "Pixel Dominus Astra", "Pixel M-2 PROTOTYPE"}, -- Options = {"Pixel Chick", "Pixel Cat", "Pixel Piggy", "Pixel Corgi", "Pixel Bunny", "Pixel Goblin", "Pixel Bee", "Pixel Monkey", "Pixel Wolf", "Pixel Tiger", "Pixel Griffin", "Pixel Yeti", "Pixel Demon", "Pixel Agony", "Pixel Angelus", "Pixel Dominus Astra", "Pixel M-2 PROTOTYPE"}
 	["PetSimulator99 - AutoSellFarmPetsMinimumAgeSlider"] = 0, -- Range = {0, 100}
 	["PetSimulator99 - AutoSellFarmPetsMaximumAgeSlider"] = 100, -- Range = {0, 100}
-	["PetSimulator99 - AutoSellFarmPetsToggle"] = false, 
+	["PetSimulator99 - AutoSellFarmPetsToggle"] = true, 
 	["PetSimulator99 - AutoCraftPetsTableMultiDropdown"] = {}, -- Options = {"Pixel Rainbow Shard", "Pixel Rainbow Gem", "Pixel Sprout", "Pixel Bloom", "Pixel Prism", "Huge Pixel Bee", "Huge Pixel Shadow Griffin", "Huge Pixel Capybara", "Titanic Pixel Agony", "Gargantuan Dark Dragon"}
 	["PetSimulator99 - AutoCraftPetsToggle"] = false, 
 	["PetSimulator99 - AutoClaimFarmStorageToggle"] = false, 
