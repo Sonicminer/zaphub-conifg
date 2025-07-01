@@ -144,7 +144,7 @@ _G.ZapSettings = {
 	["PetSimulator99 - IgnoreBreakLuckyBlockEventQuestToggle"] = false, 
 	["PetSimulator99 - IgnoreBreakCoinJarQuestToggle"] = false, 
 	["PetSimulator99 - IgnoreBreakPinataQuestToggle"] = false, 
-	["PetSimulator99 - AutoClaimMailboxToggle"] = false, 
+	["PetSimulator99 - AutoClaimMailboxToggle"] = true, 
 	["PetSimulator99 - AutoMailPetsAccountUsernameInput"] = false, 
 	["PetSimulator99 - AutoMailPetsAccountTypeDropdown"] = "All", -- Options = {"All", "New Pets"}
 	["PetSimulator99 - AutoMailHugePetsToggle"] = false, 
